@@ -24,6 +24,17 @@
     margin-left: 8px;
     
     }
+/* Style for the <h1> */
+h1 {
+    font-weight: bold;    /* Makes the text bold */
+    color: white;         /* Makes the text white */
+}
+
+/* Style for the <p> */
+p {
+    color: white;         /* Makes the text white */
+}
+
     .card h1{
         font-weight: 700;
    font-size: 1.2rem;
